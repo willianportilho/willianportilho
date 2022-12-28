@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 📕 I'm studying software engineer at 42SP (École42)
-- 🌱 I’m currently learning C and Shell
-- 💻 How to reach me: [linkedin](https://www.linkedin.com/in/willianportilho)
+- 📕 Estudante de engenharia de Software na 42SP (École42)
+- 🌱 C e Shell
+- 💻 Contato: [linkedin](https://www.linkedin.com/in/willianportilho)
 
